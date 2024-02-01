@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(160, 118, 43);
+}
+
+h2 {
+    color: rgb(111, 59, 6);
+}
+
+h3{
+    color:rgb(57, 5, 5)
+}
+
+.boloMorango {
+    background-color: rgb(213, 178, 178);
+    width: 200px;
+}
+
+.boloFubá{
+    background-color: rgb(217, 177, 177);
+    width: 200px;
+}
